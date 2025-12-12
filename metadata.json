@@ -1,0 +1,7 @@
+{
+  "name": "Vocalize - Vietnamese",
+  "description": "Công cụ chuyển đổi Văn bản thành Giọng nói và ngược lại sử dụng công nghệ tiên tiến.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
